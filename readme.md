@@ -27,7 +27,7 @@ $ pip3 -r requirements.txt
 ```
 $ jupyter notebook aws-elb-log-analysis.ipynb
 ```
-###notes:
+## notes:
 this uses your default aws profile found in `~/.aws`, you will have to alter the boto3 command, or set the `AWS_PROFILE` environment variable to a suitable profile
 
 
